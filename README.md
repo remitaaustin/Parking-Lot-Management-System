@@ -1,6 +1,6 @@
 # Parking Lot Management System
 Microprocessor and Interfacing (CSE2006) J Component
-
+## 
 ● The project aims to efficiently manage the records of the incoming and outgoing vehicles in the parking lot, so we have designed a convenient and easy-to-use interface for entering the information. The user is given the option to choose from the main menu to track the entry and exit of the vehicles, display the records of the vehicles already present in the parking lot or exit.\
 ● If the user wishes to record the entry of a vehicle, they are asked to enter the vehicle number. After entering a valid vehicle number, the system displays a vehicle parked message.\
 ● We have set the maximum value for each vehicle type as nine in the system, so once the number exceeds the given limit for a vehicle type, the user is met with a “PARKING FULL” message.\
